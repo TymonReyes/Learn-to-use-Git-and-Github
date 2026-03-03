@@ -1,7 +1,7 @@
 ### LEARNING TO USE GIT AND GITHUB
 >In this repository, I will create a simple guide of my progress learning about Git and GitHub. I will include syntax, key concepts and other important things about the use these platforms. 
 
->*This repository is actually in progress. CHANGE?
+>*This repository is actually in progress. 
 
 **Content List**
 - How to install and configure git in a Windows device.
@@ -82,3 +82,7 @@ git pull / traer los archivos que estan alojados en GitHub y hacerles un merge a
 
 ---
 crear archivo en VS Code llamado ".gitignore" y adentro se agrega archivos o carpetas que se desean ignorar.  
+IF YOU CHANGE A REPO NAME
+git remote set-url origin (newurl)
+git remote -v / View the actual url of the repo.
+
