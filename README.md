@@ -19,7 +19,7 @@ First, you have to go to the Official Git Website.
 (https://git-scm.com/install/)
 And install the aplication on your laptop.
 
-# Git sintax
+# Git syntax
 
 **git --version**  = View de Git Version
 
