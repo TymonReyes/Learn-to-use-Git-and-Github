@@ -1,3 +1,6 @@
+import os
+os.system("cls")
+
 #I will create a simple ATM menu, with an interactive menu
 i=0
 money = 1000
